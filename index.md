@@ -39,6 +39,9 @@
 - [Kriging: Spatial Patterns and Stochastic Interpolation of Cobalt](https://zixi-liu.github.io/PublicPolicyAnalytics/01Spatial_Interpolation.pdf)
 - [Spatial Point Pattern Analysis: Nearest Neighrborhood and K-functions](https://zixi-liu.github.io/PublicPolicyAnalytics/02Point_Pattern.pdf)
 
+### GIS Work
+- [GIS Analysis: Local Processing and Zonal Processing](https://zixi-liu.github.io/PublicPolicyAnalytics/Liu,Zixi,04.pdf)
+
 ---
 
 
