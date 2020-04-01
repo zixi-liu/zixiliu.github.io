@@ -9,7 +9,7 @@
 
 ---
 [Chicago Food Inspection Risk Prediction](http://example.com/)
-<img src="images/Screen Shot 2020-04-01 at 12.42.28 PM.png.jpg?raw=true"/>
+<img src="images/Screen Shot 2020-04-01 at 12.42.28 PM.png?raw=true"/>
 
 ---
 [Stel Life - 3D Visualization of Readmission Interventions](https://lzx1126.shinyapps.io/StelTowersReport/)
