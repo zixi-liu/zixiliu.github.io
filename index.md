@@ -30,16 +30,13 @@
 
 - [Spatiotemporal Comparative Analysis of Dockless Vehicle Usage Patterns in Louisville, KY](https://zixi-liu.github.io/PublicPolicyAnalytics/LouisvilleFinal.html)
 - [Chicago Food Inspection Risk Prediction - Poission Regression](https://zixi-liu.github.io/PublicPolicyAnalytics/MUSA507-RiskPrediction.html)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [R Shiny App: Interactive Towers Report For Patients Data](https://lzx1126.shinyapps.io/StelTowersReport/)
 
 ### Python Code Samples
 - [Predicting Poverty in Brazil Combining Machine Learning and Satellite Images](https://zixi-liu.github.io/GeospatialSoftwareDesign/Liu,Zixi_TermProject.pdf)
 
 ### Statistical Reports
 - [Kriging: Spatial Patterns and Stochastic Interpolation of Cobalt](https://zixi-liu.github.io/PublicPolicyAnalytics/01Spatial_Interpolation.pdf)
-
 - [Spatial Point Pattern Analysis: Nearest Neighrborhood and K-functions](https://zixi-liu.github.io/PublicPolicyAnalytics/02Point_Pattern.pdf)
 
 ---
