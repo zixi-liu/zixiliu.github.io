@@ -38,7 +38,7 @@
 - [Predicting Poverty in Brazil Combining Machine Learning and Satellite Images](https://zixi-liu.github.io/GeospatialSoftwareDesign/Liu,Zixi_TermProject.pdf)
 
 ### Statistical Reports
-- [Kriging: Spatial Patterns and Stochastic Interpolation of Cobalt](\pdf\01Spatial_Interpolation.pdf)
+- [Kriging: Spatial Patterns and Stochastic Interpolation of Cobalt](https://zixi-liu.github.io/PublicPolicyAnalytics/01Spatial_Interpolation.pdf)
 
 ---
 
