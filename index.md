@@ -34,6 +34,7 @@
 
 ### Python Code Samples
 - [Predicting Poverty in Brazil Combining Machine Learning and Satellite Images](https://zixi-liu.github.io/GeospatialSoftwareDesign/Liu,Zixi_TermProject.pdf)
+- [CHOP Analytics - Identify Patients Seen for Drug Overdose](https://github.com/zixi-liu/PennMedicineProject/blob/master/CHOP-analytics/chop_exercise.py)
 
 ### Statistical Reports
 - [Kriging: Spatial Patterns and Stochastic Interpolation of Cobalt](https://zixi-liu.github.io/PublicPolicyAnalytics/01Spatial_Interpolation.pdf)
