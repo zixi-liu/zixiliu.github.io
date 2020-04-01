@@ -8,6 +8,11 @@
 <img src="images/Screen Shot 2020-04-01 at 12.18.19 PM.png?raw=true"/>
 
 ---
+[ROC Curves - Recidivism Across Different Races](http://example.com/)
+<img src="images/Screen Shot 2020-04-01 at 1.03.29 PM.png?raw=true"/>
+
+
+---
 [Chicago Food Inspection Risk Prediction](http://example.com/)
 <img src="images/Screen Shot 2020-04-01 at 12.42.28 PM.png?raw=true"/>
 
