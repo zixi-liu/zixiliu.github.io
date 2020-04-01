@@ -12,7 +12,7 @@
 <img src="images/Screen Shot 2020-04-01 at 12.42.28 PM.png?raw=true"/>
 
 ---
-[Time Series Analysis, Correlation Cluster Map](http://example.com/)
+[Time Series Analysis, Correlation Cluster Map](https://zixi-liu.github.io/PublicPolicyAnalytics/LouisvilleFinal.html)
 <img src="images/Screen Shot 2020-04-01 at 12.51.02 PM.png?raw=true"/>
 
 ---
@@ -21,13 +21,18 @@
 
 ---
 
-### Category Name 2
+### R Code Samples
 
 - [Spatiotemporal Comparative Analysis of Dockless Vehicle Usage Patterns in Louisville, KY](https://zixi-liu.github.io/PublicPolicyAnalytics/LouisvilleFinal.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
+### Python Code Samples
+
+### Statistical Reports
+
 
 ---
 
