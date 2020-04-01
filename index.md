@@ -13,7 +13,7 @@
 
 
 ---
-[Chicago Food Inspection Risk Prediction](http://example.com/)
+[Chicago Food Inspection Risk Prediction](https://zixi-liu.github.io/PublicPolicyAnalytics/MUSA507-RiskPrediction.html)
 <img src="images/Screen Shot 2020-04-01 at 12.42.28 PM.png?raw=true"/>
 
 ---
