@@ -8,7 +8,7 @@
 <img src="images/Screen Shot 2020-04-01 at 12.18.19 PM.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Stel Life - 3D Visualization of Readmission Interventions](https://lzx1126.shinyapps.io/StelTowersReport/)
 <img src="images/Screen Shot 2020-04-01 at 12.30.40 PM.png?raw=true"/>
 
 ---
