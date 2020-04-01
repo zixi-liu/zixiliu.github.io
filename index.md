@@ -8,12 +8,12 @@
 <img src="images/Screen Shot 2020-04-01 at 12.18.19 PM.png?raw=true"/>
 
 ---
-[Stel Life - 3D Visualization of Readmission Interventions](https://lzx1126.shinyapps.io/StelTowersReport/)
-<img src="images/Screen Shot 2020-04-01 at 12.30.40 PM.png?raw=true"/>
+[Chicago Food Inspection Risk Prediction](http://example.com/)
+<img src="images/Screen Shot 2020-04-01 at 12.42.28 PM.png.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stel Life - 3D Visualization of Readmission Interventions](https://lzx1126.shinyapps.io/StelTowersReport/)
+<img src="images/Screen Shot 2020-04-01 at 12.30.40 PM.png?raw=true"/>
 
 ---
 
