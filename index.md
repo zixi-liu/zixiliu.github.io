@@ -29,7 +29,7 @@
 ### R Code Samples
 
 - [Spatiotemporal Comparative Analysis of Dockless Vehicle Usage Patterns in Louisville, KY](https://zixi-liu.github.io/PublicPolicyAnalytics/LouisvilleFinal.html)
-- [Chicago Food Inspection Risk Prediction - Poission Regression](https://zixi-liu.github.io/PublicPolicyAnalytics/MUSA507_RiskPrediction.html)
+- [Chicago Food Inspection Risk Prediction - Poission Regression](https://zixi-liu.github.io/PublicPolicyAnalytics/MUSA507-RiskPrediction.html)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
