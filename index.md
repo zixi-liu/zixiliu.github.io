@@ -4,7 +4,7 @@
 
 ### Visual Analytics
 
-[Penn Medicine All-Cause Reasmissions - Spatial Data Analysis](/sample_page)
+[Penn Medicine All-Cause Reasmissions - Spatial Data Analysis](https://zixi-liu.github.io/PennMedicineProject/Payors_ESDA_Mar17.pdf)
 <img src="images/Screen Shot 2020-04-01 at 12.18.19 PM.png?raw=true"/>
 
 ---
