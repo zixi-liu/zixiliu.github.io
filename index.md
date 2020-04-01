@@ -35,6 +35,7 @@
 - [Project 5 Title](http://example.com/)
 
 ### Python Code Samples
+- [Predicting Poverty in Brazil Combining Machine Learning and Satellite Images](https://zixi-liu.github.io/GeospatialSoftwareDesign/Liu,Zixi_TermProject.pdf)
 
 ### Statistical Reports
 
