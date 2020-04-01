@@ -4,7 +4,7 @@
 
 ### Visual Analytics
 
-[Penn Medicine All-Cause Reasmissions - Exploratory Spatial Data Analysis](/sample_page)
+[Penn Medicine All-Cause Reasmissions - Spatial Data Analysis](/sample_page)
 <img src="images/Screen Shot 2020-04-01 at 12.18.19 PM.png?raw=true"/>
 
 ---
