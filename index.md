@@ -8,7 +8,7 @@
 <img src="images/Screen Shot 2020-04-01 at 12.18.19 PM.png?raw=true"/>
 
 ---
-[ROC Curves - Recidivism Across Different Races]
+ROC Curves - Recidivism Across Different Races
 <img src="images/Screen Shot 2020-04-01 at 1.03.29 PM.png?raw=true"/>
 
 
