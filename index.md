@@ -8,7 +8,7 @@
 <img src="images/Screen Shot 2020-04-01 at 12.18.19 PM.png?raw=true"/>
 
 ---
-[ROC Curves - Recidivism Across Different Races](http://example.com/)
+[ROC Curves - Recidivism Across Different Races]()
 <img src="images/Screen Shot 2020-04-01 at 1.03.29 PM.png?raw=true"/>
 
 
@@ -38,7 +38,7 @@
 - [Visual Analytics of Traffic Data using Python and kepler.gl](https://medium.com/@lzx1126/visual-analytics-of-traffic-data-using-python-and-kepler-gl-8a8d251df564)
 
 ### Statistical Reports
-- [Kriging: Spatial Patterns and Stochastic Interpolation of Cobalt](https://zixi-liu.github.io/PublicPolicyAnalytics/01Spatial_Interpolation.pdf)
+- [Kriging: Spatial Patterns and Stochastic Interpolation of Cobalt](https://zixi-liu.github.io/PublicPolicyAnalytics/ZixiLiu-hw3.pdf)
 - [Spatial Point Pattern Analysis: Nearest Neighrborhood and K-functions](https://zixi-liu.github.io/PublicPolicyAnalytics/02Point_Pattern.pdf)
 
 ### GIS Work
