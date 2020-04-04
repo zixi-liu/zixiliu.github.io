@@ -43,6 +43,7 @@ ROC Curves - Recidivism Across Different Races
 
 ### GIS Work
 - [GIS Analysis: Local Processing and Zonal Processing](https://zixi-liu.github.io/PublicPolicyAnalytics/Liu,Zixi,04.pdf)
+- [IDW and Kernel Density Use Case](https://zixi-liu.github.io/PublicPolicyAnalytics/Liu,Zixi08 (1).pdf)
 
 ---
 
